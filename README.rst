@@ -711,7 +711,7 @@ If the google page requires additional processing, such as retrieving data from 
 If the google page requires data from a database, the application server sends a request to the database server to retrieve the data. The database server processes the request and sends the result back to the application server, which then sends the data back to the web server.
 In conclusion, a good understanding of these processes is crucial to troubleshooting and optimizing web performance, and to design secure and scalable web applications.
 
-.. `web server`: https://www.linkedin.com/posts/paul-joel-872748127_alxafrica-activity-7051469950175076352-nfEc?utm_source=share&utm_medium=member_desktop
+.. `web servers`: https://www.linkedin.com/posts/paul-joel-872748127_alxafrica-activity-7051469950175076352-nfEc?utm_source=share&utm_medium=member_desktop
 .. _`Creative Commons Zero`: https://creativecommons.org/publicdomain/zero/1.0/
 .. _`"CSS lexical and syntax grammar"`: http://www.w3.org/TR/CSS2/grammar.html
 .. _`Punycode`: https://en.wikipedia.org/wiki/Punycode
